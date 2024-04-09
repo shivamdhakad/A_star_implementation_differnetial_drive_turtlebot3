@@ -68,7 +68,8 @@ ros2 run turtlebot3_project3 turtlebot_path_follower.py
 Enter clearance of robot in mm: 10<br>
 Enter the Low RPM: 5<br>
 Enter the High RPM: 9<br>
-Enter Goal node x coordinate, y coordinate separated by spaces in mm: 3000 1700<br>
+Enter Goal node x coordinate in mm: 3000 1700<br>
+Enter Goal node y coordinate  in mm: 3000 1700<br>
 
 export TURTLEBOT3_MODEL=waffle
 
