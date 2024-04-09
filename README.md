@@ -61,6 +61,7 @@ Enter goal x coordinates and y coordinates in mm: 5500 1000<br>
 5. Run the following command in a separate terminal after sourcing `install/setup.bash` and ROS:
 ros2 run turtlebot3_project3 turtlebot_path_follower.py
 6. If the `ros2 run` command does not execute and you get the error: "no executable found", then go into the script folder and run this command to launch the python file:
+python3 turtlebot_path_follower.py
 
 
 ### Part 2 Test Case 1
